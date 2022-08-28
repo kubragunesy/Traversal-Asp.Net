@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\GUNES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj": {
-                "projectPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj"
+              "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj": {
+                "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\GUNES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -127,8 +127,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj": {
-                "projectPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj"
+              "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj": {
+                "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj"
               }
             }
           }
@@ -183,14 +183,14 @@
         }
       }
     },
-    "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj": {
+    "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj",
+        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj",
         "projectName": "EntitiyLayer",
-        "projectPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj",
+        "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj",
         "packagesPath": "C:\\Users\\GUNES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\obj\\",
+        "outputPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0eGV18LItDZvO5dDdN37dJCNMvo4v011NTU+2x0UNtVZAz8haoNKOxy17WZRz1LsJo93mxbscK8g3RDM3V2XeA==",
+  "dgSpecHash": "7d/eqDD2Jy/gKwMtGAlEX43WCZ2nPNmG90X0l5s+iAF1f2YXkaDcE9v5LEdi49D4dOf+aJAfBhuShavKHDup+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\TraversalCoreProje\\TraversalCoreProje.csproj",
+  "projectFilePath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\TraversalCoreProje\\TraversalCoreProje.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GUNES\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
     "C:\\Users\\GUNES\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.1.2\\fluentvalidation.aspnetcore.11.1.2.nupkg.sha512",

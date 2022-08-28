@@ -8,49 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TraversalCoreProje
 build_property.RootNamespace = TraversalCoreProje
-build_property.ProjectDir = C:\Users\GUNES\Documents\Kübra-C#\TraversalCoreProje\TraversalCoreProje\
+build_property.ProjectDir = C:\Users\GUNES\Documents\GitHub\Rezervasyon-Asp.Net\TraversalCoreProje\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\GUNES\Documents\Kübra-C#\TraversalCoreProje\TraversalCoreProje
+build_property.MSBuildProjectDirectory = C:\Users\GUNES\Documents\GitHub\Rezervasyon-Asp.Net\TraversalCoreProje
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/Default/Index.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/TraversalCoreProje/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VHJhdmVyc2FsQ29yZVByb2plXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/TraversalCoreProje/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VHJhdmVyc2FsQ29yZVByb2plXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/TraversalCoreProje/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VHJhdmVyc2FsQ29yZVByb2plXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/TraversalCoreProje/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VHJhdmVyc2FsQ29yZVByb2plXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/TraversalCoreProje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VHJhdmVyc2FsQ29yZVByb2plXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/TraversalCoreProje/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VHJhdmVyc2FsQ29yZVByb2plXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/Home/Index.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/Home/Privacy.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/Shared/Error.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/Shared/View.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/Shared/View.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/Shared/_UILayout.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/Shared/_UILayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9VSUxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/_ViewImports.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/_ViewStart.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GUNES/Documents/Kübra-C\#/TraversalCoreProje/TraversalCoreProje/Views/Shared/_Layout.cshtml]
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/TraversalCoreProje/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VHJhdmVyc2FsQ29yZVByb2plXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-wxnmeqmij0
+
+[C:/Users/GUNES/Documents/GitHub/Rezervasyon-Asp.Net/TraversalCoreProje/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-j6i9wlj8aq

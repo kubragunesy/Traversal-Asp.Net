@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj": {}
+    "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj": {
+    "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj",
+        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj",
         "projectName": "EntitiyLayer",
-        "projectPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\EntitiyLayer.csproj",
+        "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\EntitiyLayer.csproj",
         "packagesPath": "C:\\Users\\GUNES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\TraversalCoreProje\\EntitiyLayer\\obj\\",
+        "outputPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rezervasyon-Asp.Net\\EntitiyLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
